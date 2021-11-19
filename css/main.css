@@ -8,7 +8,7 @@
   width: 7vw;
 }
 .filler2{
-  height: 17vh;
+  height: 16vh;
 }
 .bodyy1{
   background-color: #757761;
@@ -20,13 +20,15 @@
     background-color: #B10F2E;
 }
 .text1{
-  font-family: 'Shippori Antique', sans-serif;
+font-family: 'Yeseva One', cursive;
+margin-bottom: 0;
 }
 .question{
   background: radial-gradient(#e66465, #DFBDFF);
 }
 .size1{
-  font-size: 35px;
+  font-size: 27px;
+  font-family: 'Roboto Mono', monospace;
 }
 /*
 
@@ -65,7 +67,7 @@ upsdell red
    cursor: pointer;
    display: inline-block;
    font-family: ITCAvantGardeStd-Bk,Arial,sans-serif;
-   font-size: 14px;
+   font-size: 17px;
    font-weight: 400;
    line-height: 20px;
    margin: 0 5px 10px 0;
@@ -78,6 +80,7 @@ upsdell red
    -webkit-user-select: none;
    vertical-align: middle;
    white-space: nowrap;
+font-family: 'Roboto Mono', monospace;
  }
 
  .button-50:focus {
@@ -103,3 +106,23 @@ upsdell red
      padding: 12px 50px;
    }
  }
+.center3{
+  margin-top: auto;
+margin-bottom: auto;
+}
+
+.paddingnew{
+  padding: 0rem;
+  padding-left: 2rem;
+}
+.navbar {
+  padding: 0;
+}
+.border-color{
+  border-color: #17183B!important;
+}
+
+.size4{
+  font-size: 65px;
+  font-family: 'Roboto Mono', monospace;
+}
